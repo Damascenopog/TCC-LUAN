@@ -10,7 +10,6 @@ CREATE TABLE usuarios(
     id_usuario int NOT NULL AUTO_INCREMENT,
     nome varchar(30) NOT NULL,
     senha varchar(10) NOT NULL,
-    numero int NOT NULL,
     email varchar(30) NOT NULL,
     primary key(id_usuario)
 );
