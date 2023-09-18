@@ -175,8 +175,8 @@ o sistema deverá ser desenvolvido nas linguagens: html, css , PHP, javascript.
 7. O usuário clica novamente no botão de buscar horários.
 8. O sistema exibirá as horas disponíveis para o profissional selecionado.
 9. O usuário escolhe um horário que se adeque ao seu agendamento.
-10.O sistema exibe um modal ou pop up que faz um breve resumo do que o usuário escolheu contendo (data, profissional, valor, hora  e um botão para confirmar agendamento)
-11.O usuário clica no botão "confirmar".
+10. O sistema exibe um modal ou pop up que faz um breve resumo do que o usuário escolheu contendo (data, profissional, valor, hora  e um botão para confirmar agendamento)
+11. O usuário clica no botão "confirmar".
 ![FluxoAlt_GestHor01](https://github.com/cp2-dc-info-projeto-final/barbearia-julius/assets/71456387/7ee3d6a2-0727-4bed-8c27-38300cce1294)
 
 # CDU 07 -  Acesso ao perfil criado <h1>
