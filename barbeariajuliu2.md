@@ -113,8 +113,8 @@ o sistema deverá ser desenvolvido nas linguagens: html, css , PHP, javascript.
 7. O sistema altera a senha no banco de dados
 8. O sistema apresenta o formulário de login
 9. O usuário preenche o campo email e senha
-10.O usuário pressiona o botão "enviar"
-11.O sistema redireciona o usuário para a página principal
+10. O usuário pressiona o botão "enviar"
+11. O sistema redireciona o usuário para a página principal
 ![FluxoAlt_Log03](https://github.com/cp2-dc-info-projeto-final/barbearia-julius/assets/71456387/f960c911-05f9-4a55-b87a-478afc02a381)
 
 # CDU 03 - Interface da página principal <h1>
