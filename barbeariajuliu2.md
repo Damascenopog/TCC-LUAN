@@ -40,18 +40,18 @@ o sistema deverá ter dashboard para administradores (o que terá nele)
 
 ## REQUISITOS NÃO FUNCIONAIS <h2>
 
-### rnf 01
+### RNF 01
 o sistema deverá se comunicar com o banco de dados MYSQL
 
-### rnf 02
+### RNF 02
 o sistema deverá ser disponibilizado em português
 
-### rnf 03
+### RNF 03
 o sistema deverá ser desenvolvido nas linguagens: html, css , PHP, javascript.
 
 ![WhatsApp Image 2023-09-14 at 14 22 45](https://github.com/cp2-dc-info-projeto-final/barbearia-julius/assets/142441068/6132e15b-fbc2-4f23-b2be-9b1ee4916187)
 
-# CDU 01 - cadastro de usuários <h1>
+# CDU 01 - Cadastro de usuários <h1>
 
 ### Fluxo principal
 
