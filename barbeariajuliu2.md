@@ -1,4 +1,4 @@
-# **SiSTEMA DE AGENDAMENTO** <h1>
+# **SISTEMA DE AGENDAMENTO** <h1>
 ## BARBEARIA JULIUS <h2>
 * Ana Caroline de Oliveira
 * Antônio Reuther Fructuoso Damasceno 
